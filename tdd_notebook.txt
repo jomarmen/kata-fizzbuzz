@@ -1,0 +1,4 @@
+* Multiplo de 3 devuelve Fizz - Done
+* Multiplo de 5 devuelve Buzz - Done
+* Multiplo de 3 y de 5 devuelve FizzBuzz - DONE
+* Cualquier otro valor se devuelve a si mismo - DONE
